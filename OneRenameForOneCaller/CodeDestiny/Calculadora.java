@@ -4,7 +4,6 @@ public class Calculadora {
 
     if (operacao.equals("soma")) {
       resultado = sum(num1, num2);
-      resultado = sum(num1, num2);
     } else if (operacao.equals("subtracao")) {
       resultado = subtracao(num1, num2);
     } else if (operacao.equals("multiplicacao")) {
