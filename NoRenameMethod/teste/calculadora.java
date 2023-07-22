@@ -6,7 +6,7 @@ public class calculadora extends calc{
   }
 
   public static double soma() {
-    return 1.0 + 2.0;
+    return 1.3 + 2.0;
   }
 
 }
