@@ -2,6 +2,7 @@ public class calc {
   public static void main(String[] args) {
     calc cal = new calc();
     cal.soma();
+    cal.soma();
   }
   
   public double soma() {
